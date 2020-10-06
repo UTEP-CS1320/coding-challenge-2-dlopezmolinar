@@ -1,5 +1,5 @@
-##### Name: (Write your name here)
-##### Date: (Write the date here)
+David Lopez-Molinar
+10/06/2020
 
 ### CODING CHALLENGE #2: REPORT
 
